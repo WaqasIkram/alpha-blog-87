@@ -1,4 +1,4 @@
-# README [CHECKING GIT PUSH]
+# README [WHY WHY]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
